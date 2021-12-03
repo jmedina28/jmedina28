@@ -2,7 +2,8 @@
 <h1 align="center">Juan Medina</h1>
 <h3 align="center">Studying Mathematical Engineering in Spain.</h3>
 
-[Repositorios](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Pincha [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para ver mis repositorios.
 
 
 <h3 align="left">Connect with me:</h3>
